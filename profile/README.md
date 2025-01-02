@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/159063609" alt="CSE Department Logo" height="200" width="auto" style="border-radius:3%"/>
+    <img src="https://avatars.githubusercontent.com/u/159063609" alt="CSE Department Logo" height="200" width="auto" style="border-radius:15%"/>
 </p>
 
 <h1 align="center">Department of Computer Science and Engineering, GEC Palakkad</h1>
