@@ -16,4 +16,7 @@ Government Engineering College Palakkad, Sreekrishnapuram is an educational inst
 
 The college is fully owned by Govt.of Kerala and is under the Directorate of Technical Education, Kerala. GEC Sreekrishnapuram is approved by the AICTE and is affiliated to APJ Abdul kalam Technological University (from 2015 onwards)
 
-This program is accredited by National Board of Accreditation (NBA) upto 30/06/2025, demonstrating compliance with the highest standards of quality in education and commitment to continuous improvemen
+## About the department
+B.Tech in Computer Science and Engineering, M.Tech in Computational Liguistics and PhD under the University of Calicut from 2012 onwards. Later, the programme has been affiliated to APJ Abdul Kalam Technological University.
+
+Programs are accredited by National Board of Accreditation (NBA), demonstrating compliance with the highest standards of quality in education and commitment to continuous improvemen
