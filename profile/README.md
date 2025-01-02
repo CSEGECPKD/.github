@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/159063609" alt="CSE Department Logo"/>
+</p>
+
 <h1 align="center">Department of Computer Science and Engineering, GEC Palakkad</h1>
 
 Welcome to the GitHub account of the department of Computer Science and Engineering of Government Engineering College, Palakkad.
