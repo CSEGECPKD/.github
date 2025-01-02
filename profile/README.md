@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://avatars.githubusercontent.com/u/159063609" alt="CSE Department Logo" height="200" width="auto"/>
+    <img src="https://avatars.githubusercontent.com/u/159063609" alt="CSE Department Logo" height="200" width="auto" style="border-radius:3%"/>
 </p>
 
 <h1 align="center">Department of Computer Science and Engineering, GEC Palakkad</h1>
@@ -12,4 +12,8 @@ Welcome to the GitHub account of the department of Computer Science and Engineer
 </p>
 
 ## About GEC Palakkad
-Government Engineering College Palakkad, Sreekrishnapuram is an educational institute established in 1999. It is situated in Palakkad district of Kerala. The college is fully owned by Govt.of Kerala and is under the Directorate of Technical Education, Kerala. GEC Sreekrishnapuram is approved by the AICTE and is affiliated to APJ Abdul kalam Technological University (from 2015 onwards)
+Government Engineering College Palakkad, Sreekrishnapuram is an educational institute established in 1999. It is situated in Palakkad district of Kerala.
+
+The college is fully owned by Govt.of Kerala and is under the Directorate of Technical Education, Kerala. GEC Sreekrishnapuram is approved by the AICTE and is affiliated to APJ Abdul kalam Technological University (from 2015 onwards)
+
+This program is accredited by National Board of Accreditation (NBA) upto 30/06/2025, demonstrating compliance with the highest standards of quality in education and commitment to continuous improvemen
